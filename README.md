@@ -23,6 +23,8 @@ As in the blurb from JetBrains:
 You can write Android apps in any language that can compile and run on the Java Virtual Machine (JVM), and your end users will be none the wiser. And one JVM-compatible programming language that's really caught the attention of the Android community is Kotlin, a statically typed programming language from JetBrains.12 Dec 2016
 
 Typescript also offers things I wanted from JavaScript but JavaScript failed to deliver!
-Typescript is scalable JavaScript. You could write a million lines of TypeScript and it would work.
-After 100 lines of JavaScript you will introduce a bug.
+Typescript is scalable JavaScript. 
+
+You could write thousands of lines of TypeScript and it would work.
+After 100 lines of JavaScript you may introduce a bug.
 
