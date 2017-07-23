@@ -1,8 +1,4 @@
 # hello-world
-hello-world
-
-Hi Humans!
-
 David here
 
 I have almost 30 years commercial software development including C, C++ and Java.
