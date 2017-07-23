@@ -9,8 +9,10 @@ I have almost 30 years commercial software development including C, C++ and Java
 
 I also like Kotlin, TypeScript, Angular and Node.js
 
-Java seems to be losing its supposed 'Write Once, Run Everywhere' slogan.
+Java seems to be starting to lose its supposed 'Write Once, Run Everywhere' slogan.
+
 You cannot run Java in a Browser any more!
+
 I dislike terse code and in some ways Java is starting to turn that way!
 
 I like to be able to read code without too much thinking!
